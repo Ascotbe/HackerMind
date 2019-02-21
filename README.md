@@ -1,24 +1,23 @@
-高清安全思维脑图
-├─CTF资料
-│      CTF题目工具资源.png
-│
-├─linux安全
-│      Linux Security Coaching.png
-│
-├─Web安全
-│  │  SSRF脑图.jpg
-│  │  web-内网基本流程小结.jpg
-│  │  Web安全.png
-│  │  Web常见漏洞脑图.png
-│  │  Web应用安全(By Neeao).jpg
-│  │  Web指纹分析方法.png
-│  │  Web攻击及防御技术.png
-│  │  Web架构中的安全问题.png
-│  │  web渗透.jpg
-│  │  WIKI渗透测试流程图.png
-│  │  XML安全汇总.png
-│  │  xss virus 1.0.png
-│  │  XSS利用架构图.jpg
+#高清安全思维脑图
+#├─CTF资料
+#│      CTF题目工具资源.png
+#│
+#├─linux安全
+#│      Linux Security Coaching.png
+#├─Web安全
+#│  │  SSRF脑图.jpg
+#│  │  web-内网基本流程小结.jpg
+#│  │  Web安全.png
+#│  │  Web常见漏洞脑图.png
+#│  │  Web应用安全(By Neeao).jpg
+#│  │  Web指纹分析方法.png
+#│  │  Web攻击及防御技术.png
+#│  │  Web架构中的安全问题.png
+#│  │  web渗透.jpg
+#│  │  WIKI渗透测试流程图.png
+#│  │  XML安全汇总.png
+#│  │  xss virus 1.0.png
+#│  │  XSS利用架构图.jpg
 │  │  XSS攻击点汇总.png
 │  │  域名搜集途径.png
 │  │  渗透标准.jpg

@@ -1,9 +1,9 @@
 高清安全思维脑图  
 ├─CTF资料  
-│      CTF题目工具资源.png  
+│>>>>>>CTF题目工具资源.png  
 │  
 ├─linux安全  
-│      Linux Security Coaching.png  
+│>>>>>>Linux Security Coaching.png  
 ├─Web安全  
 │  │  SSRF脑图.jpg  
 │  │  web-内网基本流程小结.jpg  
@@ -32,12 +32,12 @@
 │  │  黑客入侵行为分析.gif  
 │  │  
 │  ├─java web  
-│  │      JavaWeb应用安全.png  
-│  │      JavaWeb简介.png  
+│  │>>>>>>JavaWeb应用安全.png  
+│  │>>>>>>JavaWeb简介.png  
 │  │  
 │  ├─代码审计  
-│  │      PHP源码审计.png  
-│  │      Python代码审计脑图.jpg  
+│  │>>>>>>PHP源码审计.png  
+│  │>>>>>>Python代码审计脑图.jpg  
 │  │      代码审计的溢出脑图.png  
 │  │  
 │  ├─内网渗透  

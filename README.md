@@ -1,10 +1,14 @@
-高清安全思维脑图  
-├─CTF资料  
-│>>>>>>CTF题目工具资源.png  
+高清安全思维脑图
+========
+├─CTF资料
+-
+│     CTF题目工具资源.png  
 │  
-├─linux安全  
-│>>>>>>Linux Security Coaching.png  
-├─Web安全  
+├─linux安全
+-
+│      Linux Security Coaching.png  
+├─Web安全 
+-
 │  │  SSRF脑图.jpg  
 │  │  web-内网基本流程小结.jpg  
 │  │  Web安全.png  
@@ -32,12 +36,12 @@
 │  │  黑客入侵行为分析.gif  
 │  │  
 │  ├─java web  
-│  │>>>>>>JavaWeb应用安全.png  
-│  │>>>>>>JavaWeb简介.png  
+│  │      JavaWeb应用安全.png  
+│  │      JavaWeb简介.png  
 │  │  
 │  ├─代码审计  
-│  │>>>>>>PHP源码审计.png  
-│  │>>>>>>Python代码审计脑图.jpg  
+│  │      PHP源码审计.png  
+│  │      Python代码审计脑图.jpg  
 │  │      代码审计的溢出脑图.png  
 │  │  
 │  ├─内网渗透  
@@ -56,7 +60,8 @@
 │          渗透测试工具.png  
 │          自动化测试.png  
 │
-├─业务安全  
+├─业务安全
+-
 │      P2P-security.png  
 │      SEO导图.gif  
 │      业务安全.jpg  
@@ -69,22 +74,26 @@
 │      黑色产业.jpg  
 │      黑色产业链示意图.pdf  
 │  
-├─二进制安全  
+├─二进制安全 
+-
 │      入门二进制漏洞分析脑图.png  
 │  
-├─人工智能  
+├─人工智能
+-
 │      kaggle-特征工程.png  
 │      人工智能.jpg  
 │      数学基础.jpg  
 │      机器学习.jpg    
 │      深度学习.jpg  
 │  
-├─区块链安全    
+├─区块链安全
+-
 │      blockchain.png  
 │      WechatIMG5034.jpeg  
 │      WechatIMG5039.jpeg  
 │  
-├─安全开发  
+├─安全开发
+-
 │      Cheatsheet_OWASPCheckList.png  
 │      GIT学习脑图.jpg  
 │      LAMPer技能树.jpeg  
@@ -103,22 +112,27 @@
 │      网站架构.jpg  
 │      网络监听与防御技术.png  
 │  
-├─安全技能树资源  
+├─安全技能树资源
+-
 │      2018年信息安全从业者书单推荐.jpg  
 │      安全技能树.png  
 │  
-├─安全论文  
+├─安全论文
+-
 │      信息安全相关会议期刊.jpg  
 │  
-├─无线安全  
+├─无线安全
+-
 │      WiFi渗透流程.png   
 │      无线安全.jpg  
 │      无线安全.png  
 │  
-├─社会工程学  
+├─社会工程学 
+-
 │      社会工程学.jpg  
 │  
-├─移动安全  
+├─移动安全 
+-
 │      andrioid-security.png  
 │      android_windows_恶意病毒发展史.png  
 │      Android软件安全工程师技能表.png  
@@ -128,7 +142,8 @@
 │      macOS软件安全工程师技能表.png  
 │      移动App漏洞检测平台.png  
 │  
-├─运维安全  
+├─运维安全
+-
 │      DDoS攻击及对策.jpg  
 │      Linux检查脚本.jpeg  
 │      SAE运维体系.jpg   
@@ -162,7 +177,8 @@
 │      运维安全.png  
 │      运维职业技术点.jpg  
 │  
-└─风控安全  
+└─风控安全 
+-
         componement.png  
         system.png  
         风控.png  
